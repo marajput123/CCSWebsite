@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.763" height="74.572" viewBox="0 0 92.763 74.572">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41a814;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-3 {
+        font-size: 11px;
+      }
+    </style>
+  </defs>
+  <g id="PriceTag" transform="translate(-574.856 -1181.577)">
+    <path id="Path_838" data-name="Path 838" class="cls-1" d="M11427.938,16072.182c2.767,1.824,0,73.52,0,73.52l14.051-17.008,14.051,17.008,14.051-17.008,14.051,17.008,14.051-17.008,14.051,17.008s18.847-72.609,0-73.52S11425.172,16070.357,11427.938,16072.182Z" transform="translate(-10853 -14889.552)"/>
+    <g id="Group_191" data-name="Group 191" transform="translate(6.619)">
+      <text id="_75" data-name="$75" class="cls-2" transform="translate(584.237 1206.577)"><tspan x="0" y="0">$75</tspan></text>
+      <text id="_.00" data-name=".00" class="cls-3" transform="translate(626 1198)"><tspan x="0" y="0">.00</tspan></text>
+      <text id="_Rapid_Test" data-name="/ Rapid Test" class="cls-3" transform="translate(586 1222)"><tspan x="0" y="0">/ Rapid Test</tspan></text>
+    </g>
+  </g>
+</svg>
