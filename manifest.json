@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "NCClogo512.png",
+      "src": "NCClogo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "NCClogo512.png",
+      "src": "NCClogo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
