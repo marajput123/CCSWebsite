@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.eb6d6f71.chunk.css",
-    "main.js": "/static/js/main.c8f8bb78.chunk.js",
-    "main.js.map": "/static/js/main.c8f8bb78.chunk.js.map",
+    "main.js": "/static/js/main.9faa436e.chunk.js",
+    "main.js.map": "/static/js/main.9faa436e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f2725bed.js",
     "runtime-main.js.map": "/static/js/runtime-main.f2725bed.js.map",
-    "static/js/2.9ec263ae.chunk.js": "/static/js/2.9ec263ae.chunk.js",
-    "static/js/2.9ec263ae.chunk.js.map": "/static/js/2.9ec263ae.chunk.js.map",
+    "static/js/2.74d12c63.chunk.js": "/static/js/2.74d12c63.chunk.js",
+    "static/js/2.74d12c63.chunk.js.map": "/static/js/2.74d12c63.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.eb6d6f71.chunk.css.map": "/static/css/main.eb6d6f71.chunk.css.map",
-    "static/js/2.9ec263ae.chunk.js.LICENSE.txt": "/static/js/2.9ec263ae.chunk.js.LICENSE.txt",
+    "static/js/2.74d12c63.chunk.js.LICENSE.txt": "/static/js/2.74d12c63.chunk.js.LICENSE.txt",
     "static/media/CCSLogo.3b1b24aa.svg": "/static/media/CCSLogo.3b1b24aa.svg",
     "static/media/PriceTag-Cvd.44f730a7.svg": "/static/media/PriceTag-Cvd.44f730a7.svg",
     "static/media/PriceTag-Vax.4fb7131b.svg": "/static/media/PriceTag-Vax.4fb7131b.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2725bed.js",
-    "static/js/2.9ec263ae.chunk.js",
+    "static/js/2.74d12c63.chunk.js",
     "static/css/main.eb6d6f71.chunk.css",
-    "static/js/main.c8f8bb78.chunk.js"
+    "static/js/main.9faa436e.chunk.js"
   ]
 }
