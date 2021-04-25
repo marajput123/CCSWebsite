@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="261.007" height="121.422" viewBox="0 0 261.007 121.422">
   <defs>
-    <style>
+    <style type="text/css">
+            @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i");
+
       .cls-1, .cls-3 {
         fill: #31543e;
       }
@@ -11,7 +13,7 @@
 
       .cls-3 {
         font-size: 34px;
-        font-family: Roboto-Medium, Roboto;
+        font-family: Roboto;
         font-weight: 500;
       }
     </style>
