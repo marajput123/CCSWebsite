@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.eb6d6f71.chunk.css",
-    "main.js": "/static/js/main.f216276b.chunk.js",
-    "main.js.map": "/static/js/main.f216276b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f2725bed.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f2725bed.js.map",
-    "static/js/2.9ec263ae.chunk.js": "/static/js/2.9ec263ae.chunk.js",
-    "static/js/2.9ec263ae.chunk.js.map": "/static/js/2.9ec263ae.chunk.js.map",
+    "main.js": "/static/js/main.b8f816ec.chunk.js",
+    "main.js.map": "/static/js/main.b8f816ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ebd87e97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ebd87e97.js.map",
+    "static/js/2.69407d6f.chunk.js": "/static/js/2.69407d6f.chunk.js",
+    "static/js/2.69407d6f.chunk.js.map": "/static/js/2.69407d6f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.eb6d6f71.chunk.css.map": "/static/css/main.eb6d6f71.chunk.css.map",
-    "static/js/2.9ec263ae.chunk.js.LICENSE.txt": "/static/js/2.9ec263ae.chunk.js.LICENSE.txt",
-    "static/media/CCSLogo.0a783508.svg": "/static/media/CCSLogo.0a783508.svg",
+    "static/js/2.69407d6f.chunk.js.LICENSE.txt": "/static/js/2.69407d6f.chunk.js.LICENSE.txt",
+    "static/media/CCSLogo.e411376b.svg": "/static/media/CCSLogo.e411376b.svg",
     "static/media/PriceTag-Cvd.df865768.svg": "/static/media/PriceTag-Cvd.df865768.svg",
     "static/media/PriceTag-Vax.d755b401.svg": "/static/media/PriceTag-Vax.d755b401.svg",
     "static/media/blood.91d60064.svg": "/static/media/blood.91d60064.svg",
@@ -18,12 +18,12 @@
     "static/media/home_background.bb0493db.svg": "/static/media/home_background.bb0493db.svg",
     "static/media/logo.2ee02c83.svg": "/static/media/logo.2ee02c83.svg",
     "static/media/services_background.3a124fc8.svg": "/static/media/services_background.3a124fc8.svg",
-    "static/media/virus.494d673b.svg": "/static/media/virus.494d673b.svg"
+    "static/media/virus.f2503d08.svg": "/static/media/virus.f2503d08.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2725bed.js",
-    "static/js/2.9ec263ae.chunk.js",
+    "static/js/runtime-main.ebd87e97.js",
+    "static/js/2.69407d6f.chunk.js",
     "static/css/main.eb6d6f71.chunk.css",
-    "static/js/main.f216276b.chunk.js"
+    "static/js/main.b8f816ec.chunk.js"
   ]
 }
