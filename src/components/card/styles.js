@@ -56,7 +56,7 @@ export const cardStyles = makeStyles((theme) => ({
   },
   bodyContent: {
     display: "flex",
-    padding: "10px 10px 0px 10px",
+    padding: "7px 10px 0px 10px",
     "& h6": {
       fontWeight: "400",
       lineHeight: "20px",
@@ -87,7 +87,7 @@ export const cardStyles = makeStyles((theme) => ({
     },
   }),
   cardFeatures: {
-    marginTop: "20px",
+    marginTop: "10px",
     height: "fit-content",
     display: "flex",
     flexDirection: "column",
