@@ -31,7 +31,7 @@ export const services = [
         text: "For Patients 12+",
         features: [
           {
-            text: "TBD",
+            text: "2 Dose Pfizer",
             tooltip: null,
             info: true,
           },
