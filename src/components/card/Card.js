@@ -31,6 +31,34 @@ const Card = (props) => {
     }
     return virus;
   };
+
+  const renderList = (features, sublist = false) => {
+    return features.map((item, index) => {
+      return (
+        <React.Fragment key={index}>
+          <div
+            style={{ padding: sublist ? "5px 10px 0px 40px" : null }}
+            className={classes.bodyContent}
+          >
+            {item.info ? (
+              <ArrowForwardIos style={{ color: "green" }} />
+            ) : (
+              <Check style={{ color: "green" }} />
+            )}
+            <Typography
+              style={{ fontSize: sublist ? ".8rem" : null }}
+              variant="subtitle1"
+            >
+              {item.text}
+            </Typography>
+            {item.tooltip ? <InfoToolTip text={item.tooltip} /> : null}
+          </div>
+
+          {item.features ? renderList(item.features, true) : null}
+        </React.Fragment>
+      );
+    });
+  };
   return (
     <Paper className={classes.paperRoot} elevation={10}>
       <div className={classes.cardStyle}>
@@ -51,21 +79,7 @@ const Card = (props) => {
             <Typography>{props.summary}</Typography>
           </div>
           <div className={classes.cardFeatures}>
-            {props.features.map((item, index) => {
-              return (
-                <React.Fragment key={index}>
-                  <div className={classes.bodyContent}>
-                    {item.info ? (
-                      <ArrowForwardIos style={{ color: "green" }} />
-                    ) : (
-                      <Check style={{ color: "green" }} />
-                    )}
-                    <Typography variant="subtitle1">{item.text}</Typography>
-                    {item.tooltip ? <InfoToolTip text={item.tooltip} /> : null}
-                  </div>
-                </React.Fragment>
-              );
-            })}
+            {renderList(props.features)}
           </div>
         </div>
       </div>

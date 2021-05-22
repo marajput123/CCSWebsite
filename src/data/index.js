@@ -6,25 +6,43 @@ export const services = [
       "Vaccinations are key to debilitating the spread and effects of COVID-19 infections. Schedule your vaccination appointment today!",
     features: [
       {
-        text: "Adults 18+ are eligible",
-        tooltip: null,
-        info: null,
-      },
-      {
-        text: "Two-dose Moderna Vaccine",
-        tooltip: null,
-        info: null,
-      },
-      {
         text: "No cost to patients",
+        tooltip: null,
+        info: null,
+      },
+      {
+        text: "For adults 18+",
+        features: [
+          {
+            text: "2 Dose Moderna",
+            tooltip: null,
+            info: true,
+          },
+          {
+            text: "Johnson & Johnson",
+            tooltip: null,
+            info: true,
+          },
+        ],
+        tooltip: null,
+        info: null,
+      },
+      {
+        text: "For Patients 12+",
+        features: [
+          {
+            text: "2 Dose Pfizer",
+            tooltip: null,
+            info: true,
+          },
+        ],
         tooltip: null,
         info: null,
       },
     ],
     priceTag: "VAX",
     action: "Make an appointment",
-    link:
-      "https://patientportal.advancedmd.com/147482/onlinescheduling/existing",
+    link: "https://patientportal.advancedmd.com/147482/onlinescheduling/existing",
     image: "DNA",
     color: "#FFB655",
   },
@@ -45,8 +63,7 @@ export const services = [
         info: null,
       },
       {
-        text:
-          "Check if your travel destination accepts rapid antigen test results",
+        text: "Check if your travel destination accepts rapid antigen test results",
         tooltip: null,
         info: true,
       },

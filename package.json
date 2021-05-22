@@ -1,6 +1,6 @@
 {
-  "homepage": "http://marajput123.github.io/CCSWebsiteDev",
-  "name": "ccswebsite",
+  "homepage": "https://carolinaclinicals.com/",
+  "name": "nccwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://github.com/marajput123/NCSWebsite.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
