@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eb6d6f71.chunk.css",
-    "main.js": "/static/js/main.19c47a3c.chunk.js",
-    "main.js.map": "/static/js/main.19c47a3c.chunk.js.map",
+    "main.js": "/static/js/main.26df2b4c.chunk.js",
+    "main.js.map": "/static/js/main.26df2b4c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f2725bed.js",
     "runtime-main.js.map": "/static/js/runtime-main.f2725bed.js.map",
     "static/js/2.4ac36d05.chunk.js": "/static/js/2.4ac36d05.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.eb6d6f71.chunk.css.map": "/static/css/main.eb6d6f71.chunk.css.map",
     "static/js/2.4ac36d05.chunk.js.LICENSE.txt": "/static/js/2.4ac36d05.chunk.js.LICENSE.txt",
     "static/media/CCSLogo.e411376b.svg": "/static/media/CCSLogo.e411376b.svg",
-    "static/media/PriceTag-Cvd.df865768.svg": "/static/media/PriceTag-Cvd.df865768.svg",
+    "static/media/PriceTag-Cvd.31ec4d1e.svg": "/static/media/PriceTag-Cvd.31ec4d1e.svg",
     "static/media/PriceTag-Vax.d755b401.svg": "/static/media/PriceTag-Vax.d755b401.svg",
     "static/media/blood.91d60064.svg": "/static/media/blood.91d60064.svg",
     "static/media/dna.27aaf0ed.svg": "/static/media/dna.27aaf0ed.svg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.f2725bed.js",
     "static/js/2.4ac36d05.chunk.js",
     "static/css/main.eb6d6f71.chunk.css",
-    "static/js/main.19c47a3c.chunk.js"
+    "static/js/main.26df2b4c.chunk.js"
   ]
 }
